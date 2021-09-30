@@ -1,0 +1,44 @@
+#form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ #but{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+  #input {
+    outline: 0;
+    border-width: 0 0 2px;
+    /* border-color: blue; */
+    border-bottom: 2px solid #333;
+    width: 80%;
+  }
+  input:focus {
+    border-color: rgba(118, 68, 237, 0.9)
+  }
+  #check{
+      display: inline-block;
+  }
+  #para{
+      display: inline-block;
+  }
+
+  .shape {
+	width: 150px;
+	height: 50px;
+	transform: skew(-18deg);
+	 background-image: linear-gradient(to right bottom,  rgba(118, 68, 237, 0.9), rgba(73, 113, 243, 0.9)) ,url(image/background.jpg); 
+}
+#touch{
+	text-decoration: none; 
+	font-weight: bold;
+	outline: none;
+	border: none;
+  box-shadow: 5px 11px 28px 1px rgba(118, 68, 237, 0.9);
+}
+  

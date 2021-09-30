@@ -1,0 +1,11 @@
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+#shadow{
+    box-shadow: 3px 18px 35px 43px rgba(234,237,235,0.83);
+-webkit-box-shadow: 3px 18px 35px 43px rgba(234,237,235,0.83);
+-moz-box-shadow: 3px 18px 35px 43px rgba(234,347,235,0.83);
+}
